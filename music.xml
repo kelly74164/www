@@ -1,0 +1,134 @@
+
+<!DOCTYPE html>
+<head><meta charset="utf-8"/>
+<title>我的推薦音樂</title>
+</head>
+<body>
+<center>
+<div id="head">
+<table width="1000" border="0" cellpadding="0"cellspacing="0">
+<tr>
+<td><img src="img/標題圖.jpg"width="960"height="539"</td>
+</tr>
+<tr>
+<td align="center">我的推薦音樂</td>
+</tr>
+
+
+<div id="nav1"><br>
+
+<table width="1000" border="0" cellpadding="0"cellspacing="1" bgcolor="#ffffff">
+
+<tr>
+<td align="left" bacolor="fffffff"><a href="index.htm">作品集</a>　＞<a href="index.htm">推薦音樂</a>　＞
+歌曲
+</td>
+</tr>
+
+</table>
+</div>
+
+
+
+<div id="cont"><br>
+<table width="1000" border="0" cellpadding="0"cellspacing="1" bgcolor="#999999">
+
+<tr>
+<td align="center"bgcolor="#ffffff" colspan="2"><h1>音樂</h1>
+</td>
+</tr>
+
+<tr>
+<td width="191" bgcolor="#FFFFFF" valign="top" >
+<table width="181" cellpadding="0"cellspacing="1">
+<tr>選單列
+<td width="171"><a href="#抖音歌">抖音歌</a></td>
+</tr>
+<tr>
+<td width="171"><a href="#英文歌">英文歌</a></td>
+</tr>
+<tr>
+<td width="171"><a href="#韓文歌"></a>韓文歌</td>
+</tr>
+</table>
+</td>
+<td width="806" bgcolor="#FFFFFF" valign="top" >
+
+<table width="800" cellpadding="0"cellspacing="1" >
+
+<tr>
+<th><a id="抖音歌">抖音歌</a> </th>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+</tr>
+<tr>
+<td align="center"><a href="https://youtu.be/77RCcrIyses"target="_blank">阿拉斯加海灣</td>
+<td align="center"><a href="https://youtu.be/tqFqPL7ylfY"target="_blank">執迷不悟</td>
+<td align="center"><a href="https://youtu.be/U_dOm5vbWU0"target="_blank">不知所措</td>
+<td align="center"><a href="https://youtu.be/vcWYKdLQBng"target="_blank">刪了吧</td>
+<td align="center"><a href="https://youtu.be/__0QBf05CgA"target="_blank">來不及</td>
+</tr>
+
+<tr>
+<th><a id="英文歌">英文歌</a> </th>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+</tr>
+<tr>
+<td align="center"><a href="https://youtu.be/dPRPw6_aacg"target="_blank">Crush</td>
+<td align="center"><a href="https://youtu.be/JZELmUooBlY"target="_blank">Paris In The Rain</td>
+<td align="center"><a href="https://youtu.be/9S7Kzjy8Js0"target="_blank">Chicago fresstyle </td>
+<td align="center"><a href="https://youtu.be/yTNE1ru9ELc"target="_blank">Keep your head up princess</td>
+<td align="center"><a href="https://youtu.be/36iAFuhTq80"target="_blank">Alright</td>
+</tr>
+
+<tr>
+<th><a id="韓文歌">韓文歌</a> </th>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+<td><img width="145" height="200"src="https://www.omgtw.com/upload/article/original/be3d4c36d0e7ceabbf04eba07d6a3c03.jpg"></td>
+</tr>
+<tr>
+<td align="center"><a href="https://youtu.be/TgOu00Mf3kI"target="_blank">eight</td>
+<td align="center"><a href="https://youtu.be/D1PvIWdJ8xo"target="_blank">Blueming</td>
+<td align="center"><a href="https://youtu.be/d9IxdwEFk1c"target="_blank">Palette</td>
+<td align="center"><a href="https://youtu.be/AkcCCaDUyaU"target="_blank">Help Me</td>
+<td align="center"><a href="https://youtu.be/xPYJqPEgnuM"target="_blank">Think of You</td>
+</tr>
+
+
+
+</tr>
+</tr></table></td>
+</table>
+</div>
+<br />
+<div id="bottom">
+  <table width="1000" border="0" cellpadding="0" cellspacing="1" bgcolor="#999999">
+    <tr>
+      <td align="center" bgcolor="#FFFFFF"><br />
+        &copy版權所有。國立聯合大學文創系。禁止轉貼<br />
+          <br />
+        </a></td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
