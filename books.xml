@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="mycss.css" type="text/css"?>
 <books>
-<heading>文創書房</heading>
+<heading>推薦書單</heading>
 <book1>
-<title>書名1</title>
-<author>作者</author>
-<publisher>出版社</publisher>
+<img src="img/書1.jpg" width='256'height='256'>
+<title>與自己和好如初</title>
+<author>作者：不朽</author>
+<publisher>出版社：時報出版</publisher>
 </book1>
 
 <book2>
-<title>程式設計</title>
-<author>楊凱琳</author>
-<publisher>聯大出版社</publisher>
+<img src="img/書2.jpg" width='250'height='250'>
+<title>想把餘生的溫柔都給你</title>
+<author>作者：不朽</author>
+<publisher>出版社：悅知文化</publisher>
 </book2>
 </books>
