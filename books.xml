@@ -1,17 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
 <books>
 <heading>推薦書單</heading>
-<book1>
-<img src="img/書1.jpg" width='256'height='256'>
+<book>
 <title>與自己和好如初</title>
 <author>作者：不朽</author>
 <publisher>出版社：時報出版</publisher>
-</book1>
-
-<book2>
-<img src="img/書2.jpg" width='250'height='250'>
+</book>
+<book>
 <title>想把餘生的溫柔都給你</title>
 <author>作者：不朽</author>
 <publisher>出版社：悅知文化</publisher>
-</book2>
+</book>
 </books>
